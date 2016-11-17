@@ -1,0 +1,14 @@
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\bin\Debug\Database.exe.config
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\bin\Debug\Database.exe
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\bin\Debug\Database.pdb
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.AdminForm.resources
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.EnterForm.resources
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.QuestForm.resources
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.SellerForm.resources
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.exe
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.pdb
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.Report.resources
+C:\Users\Xomys\Desktop\База данных аптек\Database\Database\obj\Debug\Database.ListOrder.resources
